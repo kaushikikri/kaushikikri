@@ -1,7 +1,7 @@
 Hi, I'm Kaushiki Kumari 👋
 
-- 🌱 I’m currently learning MERN stack.
-- 💬 Ask me about Javascript, C++.
+- 🌱 Front-end development.
+- 💬 Ask me about Javascript,HTML,CSS, C++.
 - 😄 Pronouns: She/Her. 
 - ⚡ Fun fact: I can eat for hours but still feel hungry. 
 
