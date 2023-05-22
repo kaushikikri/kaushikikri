@@ -1,7 +1,7 @@
 Hi, I'm Kaushiki Kumari 👋
 
 - 🌱 Front-end development.
-- 💬 Ask me about Javascript,HTML,CSS, C++.
+- 💬 Ask me about Javascript,JAX,React,HTML,CSS,Tailwind CSS,Bootstrap C++.
 - 😄 Pronouns: She/Her. 
 - ⚡ Fun fact: I can eat for hours but still feel hungry. 
 
